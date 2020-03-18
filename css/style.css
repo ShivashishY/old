@@ -154,9 +154,10 @@ p {
   border-right: 4px solid red;
   border-radius: 100px;
   float: middle;
-  border-radius: 100px;
   width: 200px;
   height: 200px;
+}
+
 
 #spin {
   color: yellow;
@@ -202,4 +203,3 @@ p {
     content: "Bash";
   }
 }
-
