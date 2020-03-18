@@ -140,3 +140,49 @@ p {
     height: 4px;
   }
 }
+
+#spin {
+  color: yellow;
+}
+
+#spin:after {
+  content: "";
+  animation: spin 2.5s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    content: "Go";
+  }
+  10% {
+    content: "Terraform";
+  }
+  20% {
+    content: "Java";
+  }
+  30% {
+    content: "Python";
+  }
+  40% {
+    content: "Node";
+  }
+  50% {
+    content: "JavaScript";
+  }
+  60% {
+    content: "PHP";
+  }
+  70% {
+    content: "VB.Net";
+  }
+  80% {
+    content: "React";
+  }
+  90% {
+    content: "C";
+  }
+  100% {
+    content: "Bash";
+  }
+}
+
