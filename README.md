@@ -1,4 +1,6 @@
 # ShivashishY.github.io > [Link](https://shivashishy.github.io/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FShivashishY%2FShivashishY.github.io.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FShivashishY%2FShivashishY.github.io?ref=badge_shield)
+
 
 A particle-theme template as a landing page for my information page.
 
@@ -10,3 +12,7 @@ The particle feature was obtained with the help of this [particleground](https:/
 # References and Inspiration
 
 This template is a minimal form of the [Particle Jekyll Template](https://github.com/nrandecker/particle).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FShivashishY%2FShivashishY.github.io.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FShivashishY%2FShivashishY.github.io?ref=badge_large)
