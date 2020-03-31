@@ -364,3 +364,15 @@ p {
     content: "Bash";
   }
 }
+
+.githubHosted {
+  @include applyFont($type: main, $weight: 200);
+  align-items: center;
+  bottom: 15px;
+  color: #dddddd;
+  display: flex;
+  font-size: 0.7rem;
+  position: fixed;
+  right: 15px;
+  z-index: 1;
+}
