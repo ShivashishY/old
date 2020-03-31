@@ -376,3 +376,10 @@ p {
   right: 15px;
   z-index: 1;
 }
+.bottomleft {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  font-size: 17px;
+}
+
