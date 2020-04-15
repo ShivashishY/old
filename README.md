@@ -14,5 +14,3 @@ The particle feature was obtained with the help of this [particleground](https:/
 This template is a minimal form of the [Particle Jekyll Template](https://github.com/nrandecker/particle).
 
 
-## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FShivashishY%2FShivashishY.github.io.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FShivashishY%2FShivashishY.github.io?ref=badge_large)
