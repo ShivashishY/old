@@ -77,6 +77,14 @@ body {
   width: 100%;
   text-align: center;
 }
+
+h3 {
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: 10;
+  color: #ffffff;
+  letter-spacing: 0.05em;
+}
 h2 {
   text-transform: uppercase;
   font-size: 50px;
@@ -326,7 +334,7 @@ p {
 
 #spin:after {
   content: "";
-  animation: spin 3.5s linear infinite;
+  animation: spin 4.5s linear infinite;
 }
 
 @keyframes spin {
@@ -383,3 +391,13 @@ p {
   font-size: 17px;
 }
 
+.blinking{
+	animation:blinkingText 2s infinite;
+}
+@keyframes blinkingText{
+	0%{		color: white;	}
+	49%{	color: blue;	}
+	50%{	color: red;	}
+	99%{	color:transparent;	}
+	100%{	color: white;	}
+}
